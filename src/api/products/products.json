@@ -1,0 +1,62 @@
+[
+    {
+        "productId":1,
+        "imageUrl":"../assets/images/img6.jpg",
+        "titleImage":"pizza",
+        "productName":"tomate",
+        "productCode":"ghr742j",
+        "productAvailable":"january 09,2023",
+        "productPrice":95.99,
+        "productStar":3.5
+      },
+      {
+        "productId":2,
+        "imageUrl":"../assets/images/img6.jpg",
+        "titleImage":"pizza 2",
+        "productName":"mangue",
+        "productCode":"ghr742j",
+        "productAvailable":"january 09,2023",
+        "productPrice":95.99,
+        "productStar":2.6
+      },
+      {
+        "productId":3,
+        "imageUrl":"../assets/images/img6.jpg",
+        "titleImage":"pizza 2",
+        "productName":"pizza",
+        "productCode":"ghr742j",
+        "productAvailable":"january 09,2023",
+        "productPrice":95.99,
+        "productStar":2.7
+      },
+      {
+        "productId":4,
+        "imageUrl":"../assets/images/img6.jpg",
+        "titleImage":"pizza 2",
+        "productName":"haricot",
+        "productCode":"ghr742j",
+        "productAvailable":"january 09,2023",
+        "productPrice":95.99,
+        "productStar":5
+      },
+      {
+        "productId":5,
+        "imageUrl":"../assets/images/img6.jpg",
+        "titleImage":"pizza 2",
+        "productName":"poivre",
+        "productCode":"ghr742j",
+        "productAvailable":"january 09,2023",
+        "productPrice":95.99,
+        "productStar":1.6
+      },
+      {
+        "productId":6,
+        "imageUrl":"../assets/images/img6.jpg",
+        "titleImage":"pizza 2",
+        "productName":"sel",
+        "productCode":"ghr742j",
+        "productAvailable":"january 09,2023",
+        "productPrice":95.99,
+        "productStar":1
+      }
+  ]
